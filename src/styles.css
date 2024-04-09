@@ -1,0 +1,20 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+
+.titulo-centrado {
+    text-align: center;
+}
+
+.margin-campos {
+    margin:5px;
+}
+
+.button-step{
+    background-color: #3f51b5 !important;
+    color: white !important;
+    margin-left: 5px;
+    float: right;
+}
